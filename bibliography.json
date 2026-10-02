@@ -1,0 +1,1733 @@
+[
+  {
+    "paper_id": "P004",
+    "title": "Big2Small: A Unifying Neural Network Framework for Model Compression",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "http://arxiv.org/abs/2603.29768"
+  },
+  {
+    "paper_id": "P008",
+    "title": "SmartUpdater: Enabling Transparent, Automated, and Secure Maintenance of Stateful Smart Contracts",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tse.2025.3548730"
+  },
+  {
+    "paper_id": "P009",
+    "title": "Decentralized and Fair Trading Via Blockchain: The Journey So Far and the Road Ahead",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tdsc.2025.3547143"
+  },
+  {
+    "paper_id": "P014",
+    "title": "ERL-MR: Harnessing the Power of Euler Feature Representations for Balanced Multi-modal Learning",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://doi.org/10.1145/3664647.3681215"
+  },
+  {
+    "paper_id": "P017",
+    "title": "Shedding Light on Shadows: Automatically Tracing Illicit Money Flows on EVM-Compatible Blockchains",
+    "index_year": 2026,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P022",
+    "title": "Can Reasoning Path still be Effective as Input? Bridging Post-Reasoning to Chain-of-Thought Compression",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P026",
+    "title": "SenFEED: Dynamic Decentralized Oracle Services for Accurate and Real-Time Sensor Data",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P033",
+    "title": "LiveVal: Real-time and Trajectory-based Data Valuation via Adaptive Reference Points",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P044",
+    "title": "CALM: Curiosity-Driven Auditing for Large Language Models",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "安全与隐私",
+      "可信机器学习",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P045",
+    "title": "AutoCut: Multi-Objective Offloading Service for Heterogeneous DNN in Internet of Things",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P047",
+    "title": "When Differential Privacy Meets Query Control: A Hybrid Framework for Practical Range Query Leakage Quantification and Mitigation",
+    "index_year": 2024,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P051",
+    "title": "Region-Level Policy Optimization for Fine-grained MLLM Perception",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2609.19745v1"
+  },
+  {
+    "paper_id": "P053",
+    "title": "Robust Bimanual Vision-Language-Action Models via Embarrassingly Simple Modality Masking",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2608.22419v1"
+  },
+  {
+    "paper_id": "P054",
+    "title": "RoRA: Role-Oriented Regional Allocation for Visual Token Pruning in MLLMs",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2608.07088v1"
+  },
+  {
+    "paper_id": "P056",
+    "title": "From Question Answering to Task Completion: A Survey on Agent System and Harness Design",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2606.20683v1"
+  },
+  {
+    "paper_id": "P059",
+    "title": "Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2604.06912v1"
+  },
+  {
+    "paper_id": "P062",
+    "title": "Rethinking Frequency Modeling: Tail-Aware Dynamic Adversarial Training for Long-Tailed Robustness",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/rethinking-frequency-modeling-tail-aware-dynamic-adversarial-trai/"
+  },
+  {
+    "paper_id": "P067",
+    "title": "Efficient Rectified Flow for Image Fusion",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2509.16549v2"
+  },
+  {
+    "paper_id": "P069",
+    "title": "WATS: Calibrating Graph Neural Networks with Wavelet-Aware Temperature Scaling",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2506.23782v2"
+  },
+  {
+    "paper_id": "P073",
+    "title": "A Survey on Small Sample Imbalance Problem: Metrics, Feature Analysis, and Solutions",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2504.14800v1"
+  },
+  {
+    "paper_id": "P075",
+    "title": "Uncertainty Weighted Gradients for Model Calibration",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2503.22725v1"
+  },
+  {
+    "paper_id": "P078",
+    "title": "VSSD: Vision Mamba with Non-Causal State Space Duality",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2407.18559v2"
+  },
+  {
+    "paper_id": "P079",
+    "title": "Improving fast adversarial training paradigm: An example taxonomy perspective",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2408.03944v2"
+  },
+  {
+    "paper_id": "P081",
+    "title": "Exploring the Coordination of Frequency and Attention in Masked Image Modeling",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2211.15362v3"
+  },
+  {
+    "paper_id": "P083",
+    "title": "Divide and conquer: Frequency-aware contrastive adversarial training for robust point cloud classification",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/divide-and-conquer-frequency-aware-contrastive-adversarial-traini/"
+  },
+  {
+    "paper_id": "P084",
+    "title": "Adversarially Robust Neural Architectures",
+    "index_year": 2025,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2009.00902v2"
+  },
+  {
+    "paper_id": "P087",
+    "title": "Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Models",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2410.18639v4"
+  },
+  {
+    "paper_id": "P090",
+    "title": "Improving Fast Adversarial Training via Self-Knowledge Guidance",
+    "index_year": 2024,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2409.17589v1"
+  },
+  {
+    "paper_id": "P091",
+    "title": "Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2405.14174v1"
+  },
+  {
+    "paper_id": "P092",
+    "title": "Logarithmic Approximations for Fair k-Set Selection",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://doi.org/10.24963/ijcai.2025/439"
+  },
+  {
+    "paper_id": "P093",
+    "title": "Fair Submodular Maximization over a Knapsack Constraint",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "可信机器学习",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://doi.org/10.24963/ijcai.2025/438"
+  },
+  {
+    "paper_id": "P094",
+    "title": "A Beyond-Worst-Case Analysis of Greedy k-means++",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.52202/085713-3577"
+  },
+  {
+    "paper_id": "P095",
+    "title": "Constant Approximation for Weighted Nash Social Welfare with Submodular Valuations",
+    "index_year": 2024,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "http://arxiv.org/abs/2411.02942"
+  },
+  {
+    "paper_id": "P096",
+    "title": "Multiplicative assignment with upgrades",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2504.07663"
+  },
+  {
+    "paper_id": "P097",
+    "title": "Nash Social Welfare with Submodular Valuations: Approximation Algorithms and Integrality Gaps",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2504.09669"
+  },
+  {
+    "paper_id": "P098",
+    "title": "Scheduling with Calibrations for Multi-Interval Jobs",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/scheduling-with-calibrations-for-multi-interval-jobs/"
+  },
+  {
+    "paper_id": "P104",
+    "title": "TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization",
+    "index_year": 2026,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P127",
+    "title": "DreamPhysics: Learning Physics-Based 3D Dynamics with Video Diffusion Priors",
+    "index_year": 2025,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P132",
+    "title": "Revisiting the Integration of Convolution and Attention for Vision Backbone",
+    "index_year": 2024,
+    "primary_domain": "视觉、图形与三维场景",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P139",
+    "title": "Modelling Concurrent RTP Flows for End-to-end Predictions of QoS in Real Time Communications",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://doi.org/10.1109/ism63611.2024.00015"
+  },
+  {
+    "paper_id": "P141",
+    "title": "One Is Enough: Efficient Modeling of RTP Traffic for QoS Predictions in Real-Time Communications",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/ton.2025.3649980"
+  },
+  {
+    "paper_id": "P142",
+    "title": "Debunking Reinforcement Learning for Bandwidth Estimation in Real-Time Communications: When a Simple Regressor Suffices",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.23919/cnsm67658.2025.11297463"
+  },
+  {
+    "paper_id": "P143",
+    "title": "Packet Loss in Real-Time Communications: Can ML Tame Its Unpredictable Nature?",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "可信机器学习",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tnsm.2024.3442616"
+  },
+  {
+    "paper_id": "P144",
+    "title": "Delay-Aware Reinforcement Learning for O-RAN Control Under Stochastic Reward Feedback",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/delay-aware-reinforcement-learning-for-o-ran-control-under-stocha/"
+  },
+  {
+    "paper_id": "P145",
+    "title": "Distributed Online Convex Optimization With Nonseparable Costs and Constraints",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2602.10452"
+  },
+  {
+    "paper_id": "P146",
+    "title": "Stackelberg Coupling of Online Representation Learning and Reinforcement Learning",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2508.07452"
+  },
+  {
+    "paper_id": "P147",
+    "title": "Model-Agnostic Hessian-Free Meta-Policy Optimization via Zeroth-Order Estimation: A Linear Quadratic Regulator Perspective",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://link.springer.com/article/10.1007/s13235-025-00693-9"
+  },
+  {
+    "paper_id": "P148",
+    "title": "Symbiotic Game and Foundation Models for Cyber Deception Operations in Strategic Cyber Warfare",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2403.10570"
+  },
+  {
+    "paper_id": "P149",
+    "title": "Digital twin-based driver risk-aware predictive mobility analytics for real-time situational awareness through cooperative sensing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/digital-twin-based-driver-risk-aware-predictive-mobility-analytic/"
+  },
+  {
+    "paper_id": "P150",
+    "title": "Transparent tagging for strategic social nudges on user-generated misinformation",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/transparent-tagging-for-strategic-social-nudges-on-user-generated/"
+  },
+  {
+    "paper_id": "P151",
+    "title": "Adaptive security response strategies through conjectural online learning",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2402.12499"
+  },
+  {
+    "paper_id": "P152",
+    "title": "Digital twin-enhanced wireless indoor navigation: Achieving efficient environment sensing with zero-shot reinforcement learning",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2306.06766"
+  },
+  {
+    "paper_id": "P153",
+    "title": "Multi-level traffic-responsive tilt camera surveillance through predictive correlated online learning",
+    "index_year": 2024,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2408.02208"
+  },
+  {
+    "paper_id": "P154",
+    "title": "Decision-dominant strategic defense against lateral movement for 5G zero-trust multi-domain networks",
+    "index_year": 2024,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://link.springer.com/chapter/10.1007/978-3-031-53510-9_2"
+  },
+  {
+    "paper_id": "P155",
+    "title": "Age-aware big data query evaluation for analytic services in serverless edge clouds",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P156",
+    "title": "A fast approximation algorithm for the top-K group betweenness centrality",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P157",
+    "title": "DT-empowered, social-aware service provisioning in edge computing",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P158",
+    "title": "Enabling streaming analytics for digital twin applications in mobile edge computing networks",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P159",
+    "title": "Digital twin freshness maximization in edge computing",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P160",
+    "title": "Joint optimization of model retraining and inference services in DT-assisted edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P161",
+    "title": "QoE-aware task executions on service models in DT-assisted edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P162",
+    "title": "Efficient and fault tolerant data stream processing with uncertain data rates in serverless edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P163",
+    "title": "Inference service fidelity maximization in DT-assisted edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P164",
+    "title": "Information sharing in multi-tenant metaverse via intent-driven multicasting",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P165",
+    "title": "Privacy-enhanced healthcare monitoring service refreshment in human digital twin-assisted fabric metaverse",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P166",
+    "title": "Fidelity-aware inference services in DT-assisted edge computing via service model retraining",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P167",
+    "title": "Profit maximization of delay-sensitive, differential accuracy inference services in mobile edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P168",
+    "title": "Deep reinforcement learning for mobility-aware digital twin migrations in edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P169",
+    "title": "Approximation algorithm and applications for connected submodular function maximization problems",
+    "index_year": 2024,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P170",
+    "title": "AoI-aware inference services in edge computing via digital twin network slicing",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P171",
+    "title": "Budget-constrained digital twin synchronization and its application on fidelity-aware queries in edge computing",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P172",
+    "title": "AoI-aware service provisioning in edge computing for digital twin network slicing requests",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P173",
+    "title": "Spotlighter: backup age-guaranteed immersive virtual vehicle service provisioning in edge-enabled vehicular metaverse",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P174",
+    "title": "Reliable or green? continual individualized inference provisioning in fabric metaverse via multi-exit acceleration",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P175",
+    "title": "Mobility-aware service provisioning in edge computing via digital twin replica placements",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P177",
+    "title": "Minimizing PoI monitoring intervals with multiple UAVs in disaster areas",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P178",
+    "title": "Keep fresh digital twins in UAV-assisted IoT networks by exploiting data correlations",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P179",
+    "title": "Freshness-aware inference services in edge computing via offloading or local processing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P180",
+    "title": "Weighted monitoring interval minimization for disaster surveillance with a UAV",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P181",
+    "title": "Improving the freshness of digital twins in edge computing",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P182",
+    "title": "Utility maximization of multi-federated learning in edge computing with personalized privacy preservation",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P183",
+    "title": "An Adaptive Sampling Algorithm for the Top-K Group Betweenness Centrality",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P184",
+    "title": "Social-aware DT-assisted service provisioning in serverless edge computing",
+    "index_year": 2024,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P190",
+    "title": "Sliding Window Attention Training for Efficient Large Language Models",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P193",
+    "title": "SkillBrew: Multi-Objective Curation of Skill Banks for LLM Agents",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P196",
+    "title": "QA-Merging: Query-Adaptive Reasoning via Layer Selective Model Merging",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P197",
+    "title": "From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P198",
+    "title": "BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P200",
+    "title": "Exploring Bus Stop Mobility Pattern with Temporal Variation: A Multi-Period Prediction Framework",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P201",
+    "title": "Hierarchical Residual Policy Optimization for Generative Recommendations",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P203",
+    "title": "Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P206",
+    "title": "Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P207",
+    "title": "T-GINEE: A Tensor-Based Multi-Graph Representation Learning",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P208",
+    "title": "Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P213",
+    "title": "Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P216",
+    "title": "Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P222",
+    "title": "GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P229",
+    "title": "TORepair: Diffusion-based Task-Oriented Error Repair via Differentiable Bi-Level Optimization",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P231",
+    "title": "Democratic Recommendation with User and Item Representatives Produced by Graph Condensation",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P234",
+    "title": "SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P238",
+    "title": "DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P240",
+    "title": "Generating Compressed Counterfactual Hard Negative Samples for Graph Contrastive Learning",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "可信机器学习",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P242",
+    "title": "To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P244",
+    "title": "BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P245",
+    "title": "Detecting Miscitation on the Scholarly Web through LLM-Augmented Text-Rich Graph Learning",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P246",
+    "title": "NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P251",
+    "title": "Automated Information Flow Selection for Multi-Scenario Multi-Task Recommendation",
+    "index_year": 2026,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P252",
+    "title": "Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization",
+    "index_year": 2026,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P254",
+    "title": "Renormalization Group Guided Tensor Network Structure Search",
+    "index_year": 2026,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P256",
+    "title": "RoSA: RoPE-aware Selective Adaptation for Efficient LLM Fine-Tuning",
+    "index_year": 2026,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P257",
+    "title": "Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P258",
+    "title": "Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P260",
+    "title": "UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P261",
+    "title": "Cross-Task Collaborative Meta-Learning for Cold-Start Recommendations",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P263",
+    "title": "Towards Propagation-aware Representation Learning for Supervised Social Media Graph Analytics",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "可信机器学习",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P267",
+    "title": "SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P270",
+    "title": "Contextual Attention Modulation: Towards Efficient Multi-Task Adaptation in Large Language Models",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P271",
+    "title": "Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "可信机器学习",
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P273",
+    "title": "Prompt Tuning as User Inherent Profile Inference Machine",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P278",
+    "title": "Training-free LLM Merging for Multi-task Learning",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P281",
+    "title": "Model Merging for Knowledge Editing",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P283",
+    "title": "A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P286",
+    "title": "Measure Domain’s Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P290",
+    "title": "Put Teacher in Student’s Shoes: Cross-Distillation for Ultra-compact Model Compression Framework",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P291",
+    "title": "Multi-task offline Reinforcement Learning for Online Advertising in Recommender Systems",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P293",
+    "title": "GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P296",
+    "title": "DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P297",
+    "title": "Flow Matching based Sequential Recommender Model",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P298",
+    "title": "Generative Auto-Bidding with Value-Guided Explorations",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P301",
+    "title": "STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P304",
+    "title": "ZeroED: Hybrid Zero-Shot Error Detection with Large Language Model Reasoning",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "可信机器学习",
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P305",
+    "title": "Uniform Graph Pre-training and Prompting for Transferable Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P309",
+    "title": "Behavior Modeling Space Reconstruction for E-Commerce Search",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P311",
+    "title": "The Impact of Artificial Intelligence on Carbon Market in China: Evidence from Quantile-on-quantile Regression Approach",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P312",
+    "title": "TAPO: Task-Referenced Adaptation for Prompt Optimization",
+    "index_year": 2025,
+    "primary_domain": "大语言模型与智能体",
+    "related_domains": [
+      "大语言模型与智能体",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P313",
+    "title": "GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching",
+    "index_year": 2025,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "大语言模型与智能体",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P317",
+    "title": "SIGMA: Selective Gated Mamba for Sequential Recommendation",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P329",
+    "title": "Multi-level Graph Knowledge Contrastive Learning",
+    "index_year": 2024,
+    "primary_domain": "算法、优化与决策控制",
+    "related_domains": [
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P332",
+    "title": "DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P336",
+    "title": "Efficient and Robust Regularized Federated Recommendation",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "安全与隐私",
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P337",
+    "title": "Scalable Dynamic Embedding Size Search for Streaming Recommendation",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P339",
+    "title": "Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs",
+    "index_year": 2024,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "推荐、搜索与个性化",
+      "算法、优化与决策控制"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  }
+]
