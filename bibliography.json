@@ -10,7 +10,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "http://arxiv.org/abs/2603.29768"
+    "source_url": "http://arxiv.org/abs/2603.29768",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p004"
   },
   {
     "paper_id": "P008",
@@ -22,7 +23,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tse.2025.3548730"
+    "source_url": "https://doi.org/10.1109/tse.2025.3548730",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p008"
   },
   {
     "paper_id": "P009",
@@ -34,7 +36,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tdsc.2025.3547143"
+    "source_url": "https://doi.org/10.1109/tdsc.2025.3547143",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p009"
   },
   {
     "paper_id": "P014",
@@ -47,7 +50,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.1145/3664647.3681215"
+    "source_url": "https://doi.org/10.1145/3664647.3681215",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p014"
   },
   {
     "paper_id": "P017",
@@ -59,7 +63,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p017"
   },
   {
     "paper_id": "P022",
@@ -71,7 +76,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p022"
   },
   {
     "paper_id": "P026",
@@ -84,7 +90,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/03-控制理论与动态系统.md#paper-p026"
   },
   {
     "paper_id": "P033",
@@ -96,7 +103,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p033"
   },
   {
     "paper_id": "P044",
@@ -110,7 +118,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p044"
   },
   {
     "paper_id": "P045",
@@ -122,7 +131,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p045"
   },
   {
     "paper_id": "P047",
@@ -134,7 +144,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/03-控制理论与动态系统.md#paper-p047"
   },
   {
     "paper_id": "P051",
@@ -147,7 +158,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2609.19745v1"
+    "source_url": "https://arxiv.org/abs/2609.19745v1",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p051"
   },
   {
     "paper_id": "P053",
@@ -161,7 +173,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2608.22419v1"
+    "source_url": "https://arxiv.org/abs/2608.22419v1",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p053"
   },
   {
     "paper_id": "P054",
@@ -174,7 +187,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2608.07088v1"
+    "source_url": "https://arxiv.org/abs/2608.07088v1",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p054"
   },
   {
     "paper_id": "P056",
@@ -186,7 +200,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2606.20683v1"
+    "source_url": "https://arxiv.org/abs/2606.20683v1",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p056"
   },
   {
     "paper_id": "P059",
@@ -199,7 +214,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2604.06912v1"
+    "source_url": "https://arxiv.org/abs/2604.06912v1",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p059"
   },
   {
     "paper_id": "P062",
@@ -212,7 +228,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://scholars.cityu.edu.hk/en/publications/rethinking-frequency-modeling-tail-aware-dynamic-adversarial-trai/"
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/rethinking-frequency-modeling-tail-aware-dynamic-adversarial-trai/",
+    "discussion_path": "论文解读/03-控制理论与动态系统.md#paper-p062"
   },
   {
     "paper_id": "P067",
@@ -224,7 +241,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2509.16549v2"
+    "source_url": "https://arxiv.org/abs/2509.16549v2",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p067"
   },
   {
     "paper_id": "P069",
@@ -236,7 +254,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2506.23782v2"
+    "source_url": "https://arxiv.org/abs/2506.23782v2",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p069"
   },
   {
     "paper_id": "P073",
@@ -248,7 +267,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2504.14800v1"
+    "source_url": "https://arxiv.org/abs/2504.14800v1",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p073"
   },
   {
     "paper_id": "P075",
@@ -260,7 +280,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2503.22725v1"
+    "source_url": "https://arxiv.org/abs/2503.22725v1",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p075"
   },
   {
     "paper_id": "P078",
@@ -272,7 +293,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2407.18559v2"
+    "source_url": "https://arxiv.org/abs/2407.18559v2",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p078"
   },
   {
     "paper_id": "P079",
@@ -285,7 +307,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2408.03944v2"
+    "source_url": "https://arxiv.org/abs/2408.03944v2",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p079"
   },
   {
     "paper_id": "P081",
@@ -297,7 +320,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2211.15362v3"
+    "source_url": "https://arxiv.org/abs/2211.15362v3",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p081"
   },
   {
     "paper_id": "P083",
@@ -310,7 +334,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://scholars.cityu.edu.hk/en/publications/divide-and-conquer-frequency-aware-contrastive-adversarial-traini/"
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/divide-and-conquer-frequency-aware-contrastive-adversarial-traini/",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p083"
   },
   {
     "paper_id": "P084",
@@ -323,7 +348,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2009.00902v2"
+    "source_url": "https://arxiv.org/abs/2009.00902v2",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p084"
   },
   {
     "paper_id": "P087",
@@ -336,7 +362,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2410.18639v4"
+    "source_url": "https://arxiv.org/abs/2410.18639v4",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p087"
   },
   {
     "paper_id": "P090",
@@ -349,7 +376,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2409.17589v1"
+    "source_url": "https://arxiv.org/abs/2409.17589v1",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p090"
   },
   {
     "paper_id": "P091",
@@ -361,7 +389,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2405.14174v1"
+    "source_url": "https://arxiv.org/abs/2405.14174v1",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p091"
   },
   {
     "paper_id": "P092",
@@ -373,7 +402,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.24963/ijcai.2025/439"
+    "source_url": "https://doi.org/10.24963/ijcai.2025/439",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p092"
   },
   {
     "paper_id": "P093",
@@ -385,7 +415,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.24963/ijcai.2025/438"
+    "source_url": "https://doi.org/10.24963/ijcai.2025/438",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p093"
   },
   {
     "paper_id": "P094",
@@ -396,7 +427,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.52202/085713-3577"
+    "source_url": "https://doi.org/10.52202/085713-3577",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p094"
   },
   {
     "paper_id": "P095",
@@ -407,7 +439,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "http://arxiv.org/abs/2411.02942"
+    "source_url": "http://arxiv.org/abs/2411.02942",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p095"
   },
   {
     "paper_id": "P096",
@@ -418,7 +451,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2504.07663"
+    "source_url": "https://arxiv.org/abs/2504.07663",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p096"
   },
   {
     "paper_id": "P097",
@@ -429,7 +463,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2504.09669"
+    "source_url": "https://arxiv.org/abs/2504.09669",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p097"
   },
   {
     "paper_id": "P098",
@@ -440,7 +475,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://scholars.cityu.edu.hk/en/publications/scheduling-with-calibrations-for-multi-interval-jobs/"
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/scheduling-with-calibrations-for-multi-interval-jobs/",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p098"
   },
   {
     "paper_id": "P104",
@@ -452,7 +488,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p104"
   },
   {
     "paper_id": "P127",
@@ -464,7 +501,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/03-控制理论与动态系统.md#paper-p127"
   },
   {
     "paper_id": "P132",
@@ -476,7 +514,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p132"
   },
   {
     "paper_id": "P139",
@@ -488,7 +527,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://doi.org/10.1109/ism63611.2024.00015"
+    "source_url": "https://doi.org/10.1109/ism63611.2024.00015",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p139"
   },
   {
     "paper_id": "P141",
@@ -500,7 +540,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/ton.2025.3649980"
+    "source_url": "https://doi.org/10.1109/ton.2025.3649980",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p141"
   },
   {
     "paper_id": "P142",
@@ -512,7 +553,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.23919/cnsm67658.2025.11297463"
+    "source_url": "https://doi.org/10.23919/cnsm67658.2025.11297463",
+    "discussion_path": "论文解读/02-在线学习与序贯决策.md#paper-p142"
   },
   {
     "paper_id": "P143",
@@ -525,7 +567,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tnsm.2024.3442616"
+    "source_url": "https://doi.org/10.1109/tnsm.2024.3442616",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p143"
   },
   {
     "paper_id": "P144",
@@ -537,7 +580,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://scholars.cityu.edu.hk/en/publications/delay-aware-reinforcement-learning-for-o-ran-control-under-stocha/"
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/delay-aware-reinforcement-learning-for-o-ran-control-under-stocha/",
+    "discussion_path": "论文解读/02-在线学习与序贯决策.md#paper-p144"
   },
   {
     "paper_id": "P145",
@@ -549,7 +593,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2602.10452"
+    "source_url": "https://arxiv.org/abs/2602.10452",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p145"
   },
   {
     "paper_id": "P146",
@@ -560,7 +605,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2508.07452"
+    "source_url": "https://arxiv.org/abs/2508.07452",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p146"
   },
   {
     "paper_id": "P147",
@@ -571,7 +617,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://link.springer.com/article/10.1007/s13235-025-00693-9"
+    "source_url": "https://link.springer.com/article/10.1007/s13235-025-00693-9",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p147"
   },
   {
     "paper_id": "P148",
@@ -584,7 +631,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2403.10570"
+    "source_url": "https://arxiv.org/abs/2403.10570",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p148"
   },
   {
     "paper_id": "P149",
@@ -596,7 +644,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://scholars.cityu.edu.hk/en/publications/digital-twin-based-driver-risk-aware-predictive-mobility-analytic/"
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/digital-twin-based-driver-risk-aware-predictive-mobility-analytic/",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p149"
   },
   {
     "paper_id": "P150",
@@ -607,7 +656,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://scholars.cityu.edu.hk/en/publications/transparent-tagging-for-strategic-social-nudges-on-user-generated/"
+    "source_url": "https://scholars.cityu.edu.hk/en/publications/transparent-tagging-for-strategic-social-nudges-on-user-generated/",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p150"
   },
   {
     "paper_id": "P151",
@@ -619,7 +669,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2402.12499"
+    "source_url": "https://arxiv.org/abs/2402.12499",
+    "discussion_path": "论文解读/02-在线学习与序贯决策.md#paper-p151"
   },
   {
     "paper_id": "P152",
@@ -631,7 +682,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2306.06766"
+    "source_url": "https://arxiv.org/abs/2306.06766",
+    "discussion_path": "论文解读/02-在线学习与序贯决策.md#paper-p152"
   },
   {
     "paper_id": "P153",
@@ -644,7 +696,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2408.02208"
+    "source_url": "https://arxiv.org/abs/2408.02208",
+    "discussion_path": "论文解读/02-在线学习与序贯决策.md#paper-p153"
   },
   {
     "paper_id": "P154",
@@ -657,7 +710,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://link.springer.com/chapter/10.1007/978-3-031-53510-9_2"
+    "source_url": "https://link.springer.com/chapter/10.1007/978-3-031-53510-9_2",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p154"
   },
   {
     "paper_id": "P155",
@@ -669,7 +723,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p155"
   },
   {
     "paper_id": "P156",
@@ -681,7 +736,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p156"
   },
   {
     "paper_id": "P157",
@@ -694,7 +750,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p157"
   },
   {
     "paper_id": "P158",
@@ -706,7 +763,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p158"
   },
   {
     "paper_id": "P159",
@@ -718,7 +776,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p159"
   },
   {
     "paper_id": "P160",
@@ -730,7 +789,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p160"
   },
   {
     "paper_id": "P161",
@@ -742,7 +802,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p161"
   },
   {
     "paper_id": "P162",
@@ -754,7 +815,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p162"
   },
   {
     "paper_id": "P163",
@@ -766,7 +828,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p163"
   },
   {
     "paper_id": "P164",
@@ -778,7 +841,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p164"
   },
   {
     "paper_id": "P165",
@@ -792,7 +856,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p165"
   },
   {
     "paper_id": "P166",
@@ -804,7 +869,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p166"
   },
   {
     "paper_id": "P167",
@@ -816,7 +882,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p167"
   },
   {
     "paper_id": "P168",
@@ -828,7 +895,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/02-在线学习与序贯决策.md#paper-p168"
   },
   {
     "paper_id": "P169",
@@ -840,7 +908,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p169"
   },
   {
     "paper_id": "P170",
@@ -852,7 +921,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p170"
   },
   {
     "paper_id": "P171",
@@ -864,7 +934,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p171"
   },
   {
     "paper_id": "P172",
@@ -876,7 +947,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p172"
   },
   {
     "paper_id": "P173",
@@ -888,7 +960,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p173"
   },
   {
     "paper_id": "P174",
@@ -900,7 +973,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p174"
   },
   {
     "paper_id": "P175",
@@ -912,7 +986,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p175"
   },
   {
     "paper_id": "P177",
@@ -924,7 +999,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p177"
   },
   {
     "paper_id": "P178",
@@ -936,7 +1012,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p178"
   },
   {
     "paper_id": "P179",
@@ -948,7 +1025,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p179"
   },
   {
     "paper_id": "P180",
@@ -960,7 +1038,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p180"
   },
   {
     "paper_id": "P181",
@@ -972,7 +1051,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p181"
   },
   {
     "paper_id": "P182",
@@ -985,7 +1065,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p182"
   },
   {
     "paper_id": "P183",
@@ -997,7 +1078,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p183"
   },
   {
     "paper_id": "P184",
@@ -1010,7 +1092,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p184"
   },
   {
     "paper_id": "P190",
@@ -1022,7 +1105,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p190"
   },
   {
     "paper_id": "P193",
@@ -1034,7 +1118,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p193"
   },
   {
     "paper_id": "P196",
@@ -1046,7 +1131,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p196"
   },
   {
     "paper_id": "P197",
@@ -1059,7 +1145,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p197"
   },
   {
     "paper_id": "P198",
@@ -1071,7 +1158,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p198"
   },
   {
     "paper_id": "P200",
@@ -1083,7 +1171,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p200"
   },
   {
     "paper_id": "P201",
@@ -1096,7 +1185,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p201"
   },
   {
     "paper_id": "P203",
@@ -1108,7 +1198,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p203"
   },
   {
     "paper_id": "P206",
@@ -1120,7 +1211,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p206"
   },
   {
     "paper_id": "P207",
@@ -1131,7 +1223,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p207"
   },
   {
     "paper_id": "P208",
@@ -1142,7 +1235,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p208"
   },
   {
     "paper_id": "P213",
@@ -1155,7 +1249,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p213"
   },
   {
     "paper_id": "P216",
@@ -1167,7 +1262,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p216"
   },
   {
     "paper_id": "P222",
@@ -1180,7 +1276,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p222"
   },
   {
     "paper_id": "P229",
@@ -1192,7 +1289,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p229"
   },
   {
     "paper_id": "P231",
@@ -1204,7 +1302,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p231"
   },
   {
     "paper_id": "P234",
@@ -1216,7 +1315,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p234"
   },
   {
     "paper_id": "P238",
@@ -1227,7 +1327,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p238"
   },
   {
     "paper_id": "P240",
@@ -1239,7 +1340,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p240"
   },
   {
     "paper_id": "P242",
@@ -1252,7 +1354,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p242"
   },
   {
     "paper_id": "P244",
@@ -1264,7 +1367,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p244"
   },
   {
     "paper_id": "P245",
@@ -1277,7 +1381,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p245"
   },
   {
     "paper_id": "P246",
@@ -1290,7 +1395,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p246"
   },
   {
     "paper_id": "P251",
@@ -1302,7 +1408,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p251"
   },
   {
     "paper_id": "P252",
@@ -1314,7 +1421,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p252"
   },
   {
     "paper_id": "P254",
@@ -1326,7 +1434,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p254"
   },
   {
     "paper_id": "P256",
@@ -1338,7 +1447,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p256"
   },
   {
     "paper_id": "P257",
@@ -1351,7 +1461,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-在线学习与序贯决策.md#paper-p257"
   },
   {
     "paper_id": "P258",
@@ -1363,7 +1474,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p258"
   },
   {
     "paper_id": "P260",
@@ -1375,7 +1487,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p260"
   },
   {
     "paper_id": "P261",
@@ -1387,7 +1500,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p261"
   },
   {
     "paper_id": "P263",
@@ -1399,7 +1513,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p263"
   },
   {
     "paper_id": "P267",
@@ -1411,7 +1526,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p267"
   },
   {
     "paper_id": "P270",
@@ -1423,7 +1539,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p270"
   },
   {
     "paper_id": "P271",
@@ -1436,7 +1553,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p271"
   },
   {
     "paper_id": "P273",
@@ -1449,7 +1567,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p273"
   },
   {
     "paper_id": "P278",
@@ -1461,7 +1580,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p278"
   },
   {
     "paper_id": "P281",
@@ -1473,7 +1593,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p281"
   },
   {
     "paper_id": "P283",
@@ -1486,7 +1607,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p283"
   },
   {
     "paper_id": "P286",
@@ -1498,7 +1620,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p286"
   },
   {
     "paper_id": "P290",
@@ -1511,7 +1634,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p290"
   },
   {
     "paper_id": "P291",
@@ -1523,7 +1647,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-在线学习与序贯决策.md#paper-p291"
   },
   {
     "paper_id": "P293",
@@ -1535,7 +1660,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p293"
   },
   {
     "paper_id": "P296",
@@ -1547,7 +1673,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p296"
   },
   {
     "paper_id": "P297",
@@ -1559,7 +1686,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p297"
   },
   {
     "paper_id": "P298",
@@ -1571,7 +1699,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p298"
   },
   {
     "paper_id": "P301",
@@ -1583,7 +1712,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p301"
   },
   {
     "paper_id": "P304",
@@ -1596,7 +1726,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p304"
   },
   {
     "paper_id": "P305",
@@ -1608,7 +1739,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p305"
   },
   {
     "paper_id": "P309",
@@ -1620,7 +1752,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p309"
   },
   {
     "paper_id": "P311",
@@ -1631,7 +1764,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p311"
   },
   {
     "paper_id": "P312",
@@ -1643,7 +1777,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/01-优化方法与收敛分析.md#paper-p312"
   },
   {
     "paper_id": "P313",
@@ -1656,7 +1791,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-在线学习与序贯决策.md#paper-p313"
   },
   {
     "paper_id": "P317",
@@ -1668,7 +1804,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p317"
   },
   {
     "paper_id": "P329",
@@ -1679,7 +1816,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p329"
   },
   {
     "paper_id": "P332",
@@ -1691,7 +1829,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-算法理论的交叉应用.md#paper-p332"
   },
   {
     "paper_id": "P336",
@@ -1704,7 +1843,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/05-计算效率与资源分配.md#paper-p336"
   },
   {
     "paper_id": "P337",
@@ -1716,7 +1856,8 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/03-控制理论与动态系统.md#paper-p337"
   },
   {
     "paper_id": "P339",
@@ -1728,6 +1869,7 @@
       "算法、优化与决策控制"
     ],
     "evidence_level": "title",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-图算法与组合问题.md#paper-p339"
   }
 ]
